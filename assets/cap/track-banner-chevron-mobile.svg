@@ -1,0 +1,49 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-4093.18625" y1="1210.93672" x2="-4092.87932" y2="1210.93672" gradientTransform="matrix(128, 0, 0, -33, 524005.21947, 39976.21322)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ca261a"/>
+      <stop offset="0.34897" stop-color="#e52131"/>
+      <stop offset="0.63174" stop-color="#d22133"/>
+      <stop offset="0.9" stop-color="#b22036"/>
+      <stop offset="1" stop-color="#a82037"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-4062.13571" y1="1228.16422" x2="-4061.76409" y2="1228.16422" gradientTransform="matrix(65, 0, 0, -15, 264097.1421, 18452.62975)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#007fc4"/>
+      <stop offset="0.3" stop-color="#0065ab"/>
+      <stop offset="0.67" stop-color="#004990"/>
+      <stop offset="0.77" stop-color="#094186"/>
+      <stop offset="0.95" stop-color="#202c6a"/>
+      <stop offset="1" stop-color="#282561"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-4108.43139" y1="1205.11277" x2="-4108.16027" y2="1205.11277" gradientTransform="matrix(248, 0, 0, -67, 1018890.98591, 80766.42644)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eeebe9"/>
+      <stop offset="0.44" stop-color="#e5e3e2"/>
+      <stop offset="1" stop-color="#d2d3d3"/>
+    </linearGradient>
+  </defs>
+  <title>2018-06-19 Brand Chevrons</title>
+  <g>
+    <rect class="cls-1" x="40.64727" y="19.56714" width="89.22329" height="13.38658"/>
+    <path class="cls-1" d="M129.87056,0H65.17693c-12.29817.07865-17.62808,2.77468-23.19646,8.04322L23.00437,28.26357H129.87056V0Z"/>
+    <path id="Shape" class="cls-2" d="M88.27332,9.16951c-5.59184.03412-8.01529,1.204-10.5519,3.49L69.0979,21.43324H97.2646c0.69309,0,1.339,0,1.94253-.04874,4.8799-.28758,7.044-1.67676,9.60892-4.15778,0.53278-.51668,7.85027-8.05722,7.85027-8.05722h-28.393Z"/>
+    <path id="Shape-2" data-name="Shape" class="cls-3" d="M68.0582,27.37929c-2.83961.01551-4.07027,0.54725-5.35839,1.58636l-4.37913,3.98806h14.3034c0.352,0,.68,0,0.98644-0.02216a6.92379,6.92379,0,0,0,4.87953-1.8899c0.27056-.23485,3.98647-3.66237,3.98647-3.66237H68.0582Z"/>
+    <path id="Shape-3" data-name="Shape" class="cls-4" d="M27.10517,14.78814c-7.90429.05054-11.32992,1.78335-14.90885,5.16954L0,32.95372H39.81468c0.9797,0,1.89276,0,2.74584-.0722,6.89792-.426,9.957-2.48369,13.58258-6.15868,0.75311-.76532,11.09666-11.9347,11.09666-11.9347H27.10517Z"/>
+  </g>
+</svg>
